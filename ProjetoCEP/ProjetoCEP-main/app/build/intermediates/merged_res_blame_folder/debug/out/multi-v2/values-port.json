@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.unir.projetocep.app-mergeDebugResources-30:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sandy\\.gradle\\caches\\transforms-3\\cebec248bc05c0fb9e7c07114f4d21e2\\transformed\\appcompat-1.5.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

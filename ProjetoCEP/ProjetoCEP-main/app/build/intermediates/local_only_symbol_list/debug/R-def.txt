@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_100
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLista
+id btnMostrar
+id btnRecuperar
+id btnSalvar
+id edtCEP
+id map
+id recycler
+id text_bairro
+id txtCep
+id txtExibir
+id txtId
+id txtLocalidade
+id txtLogradouro
+id view
+layout activity_lista
+layout activity_main
+layout activity_maps
+layout endereco_adapter
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string title_activity_maps
+style Theme.ExemploRetrofit
+xml backup_rules
+xml data_extraction_rules
